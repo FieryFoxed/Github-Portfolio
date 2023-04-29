@@ -1,6 +1,5 @@
 #    GitHub Portfolio
 
-                     | Brennan Morse | 
 
 
 
